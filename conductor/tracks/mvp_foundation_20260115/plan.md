@@ -29,6 +29,6 @@
     - [x] Sub-task: Persist settings using `DataStore` or `SharedPreferences`.
 
 ## Phase 4: Integration & Polish
-- [ ] Task: Wire up the `Settings` to the `PrankWorker` (reschedule on change).
-- [ ] Task: specific permission handling for `POST_NOTIFICATIONS` (Android 13+).
-- [ ] Task: Verify the "Invisible Chaos" aesthetic across all implemented screens.
+- [x] Task: Wire up the `Settings` to the `PrankWorker` (reschedule on change).
+- [x] Task: specific permission handling for `POST_NOTIFICATIONS` (Android 13+).
+- [x] Task: Verify the "Invisible Chaos" aesthetic across all implemented screens.
