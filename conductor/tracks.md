@@ -4,5 +4,5 @@ This file tracks all major tracks for the project. Each track has its own detail
 
 ---
 
-- [ ] **Track: Establish MVP Foundation: Core Notification Engine & UI Skeleton**
+- [~] **Track: Establish MVP Foundation: Core Notification Engine & UI Skeleton**
   *Link: [./tracks/mvp_foundation_20260115/](./tracks/mvp_foundation_20260115/)*

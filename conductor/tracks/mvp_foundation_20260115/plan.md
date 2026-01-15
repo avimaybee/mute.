@@ -1,10 +1,10 @@
 # Implementation Plan - Track: Establish MVP Foundation
 
 ## Phase 1: Project Skeleton & Architecture
-- [ ] Task: Set up Android project structure (MVVM, Hilt/Koin if needed, ViewBinding/Compose).
-- [ ] Task: specific dependency configuration (libs.versions.toml) for WorkManager, Navigation, and Room/Gson.
-- [ ] Task: Create base Activity and Application classes.
-- [ ] Task: Implement a basic "Theme" following the "Invisible Chaos" guidelines (Material 3, minimalist).
+- [x] Task: Set up Android project structure (MVVM, Hilt/Koin if needed, ViewBinding/Compose).
+- [x] Task: specific dependency configuration (libs.versions.toml) for WorkManager, Navigation, and Room/Gson.
+- [x] Task: Create base Activity and Application classes.
+- [x] Task: Implement a basic "Theme" following the "Invisible Chaos" guidelines (Material 3, minimalist).
 
 ## Phase 2: Core Notification Engine
 - [ ] Task: Create the `PrankRepository` to manage the list of 150+ static prank messages.
