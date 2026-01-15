@@ -10,7 +10,7 @@
 - **Components:** AndroidX Core, ViewModel, LiveData/Flow.
 
 ## Libraries & Frameworks
-- **UI:** Material Components, AppCompat.
+- **UI:** Material Components, AppCompat, ConstraintLayout.
 - **Background Tasks:** WorkManager (for notification scheduling).
 - **Navigation:** Jetpack Navigation Component.
 - **Testing:** JUnit 4, Espresso, AndroidX Test.
