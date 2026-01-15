@@ -7,15 +7,15 @@
 - [x] Task: Implement a basic "Theme" following the "Invisible Chaos" guidelines (Material 3, minimalist).
 
 ## Phase 2: Core Notification Engine
-- [ ] Task: Create the `PrankRepository` to manage the list of 150+ static prank messages.
-    - [ ] Sub-task: Define the data model for a `Prank` (id, type, senderName, messageBody, punchlineText).
-    - [ ] Sub-task: Populate the initial list of pranks (JSON or hardcoded list).
-- [ ] Task: Implement `PrankWorker` using `WorkManager`.
-    - [ ] Sub-task: Write logic to select a random prank.
-    - [ ] Sub-task: Write logic to schedule the next execution based on user frequency settings.
-- [ ] Task: Implement `NotificationManagerHelper` to actually post the notification.
-    - [ ] Sub-task: Configure the Notification Channel ("Mute Pranks").
-    - [ ] Sub-task: Ensure the `PendingIntent` points to the `GotchaActivity`.
+- [x] Task: Create the `PrankRepository` to manage the list of 150+ static prank messages.
+    - [x] Sub-task: Define the data model for a `Prank` (id, type, senderName, messageBody, punchlineText).
+    - [x] Sub-task: Populate the initial list of pranks (JSON or hardcoded list).
+- [x] Task: Implement `PrankWorker` using `WorkManager`.
+    - [x] Sub-task: Write logic to select a random prank.
+    - [x] Sub-task: Write logic to schedule the next execution based on user frequency settings.
+- [x] Task: Implement `NotificationManagerHelper` to actually post the notification.
+    - [x] Sub-task: Configure the Notification Channel ("Mute Pranks").
+    - [x] Sub-task: Ensure the `PendingIntent` points to the `GotchaActivity`.
 
 ## Phase 3: UI Implementation
 - [ ] Task: Implement `MainActivity` (Home Screen).
