@@ -18,15 +18,15 @@
     - [x] Sub-task: Ensure the `PendingIntent` points to the `GotchaActivity`.
 
 ## Phase 3: UI Implementation
-- [ ] Task: Implement `MainActivity` (Home Screen).
-    - [ ] Sub-task: Display current status (Active/Paused).
-    - [ ] Sub-task: Add a "Test Notification" button for immediate verification.
-- [ ] Task: Implement `GotchaActivity`.
-    - [ ] Sub-task: Create the layout (fullscreen, centered bold text, "Share" button placeholder).
-    - [ ] Sub-task: Extract the prank data from the Intent and display it.
-- [ ] Task: Implement `SettingsActivity` (or Fragment).
-    - [ ] Sub-task: Add controls for Frequency (Slider) and Quiet Hours (TimePickers).
-    - [ ] Sub-task: Persist settings using `DataStore` or `SharedPreferences`.
+- [x] Task: Implement `MainActivity` (Home Screen).
+    - [x] Sub-task: Display current status (Active/Paused).
+    - [x] Sub-task: Add a "Test Notification" button for immediate verification.
+- [x] Task: Implement `GotchaActivity`.
+    - [x] Sub-task: Create the layout (fullscreen, centered bold text, "Share" button placeholder).
+    - [x] Sub-task: Extract the prank data from the Intent and display it.
+- [x] Task: Implement `SettingsActivity` (or Fragment).
+    - [x] Sub-task: Add controls for Frequency (Slider) and Quiet Hours (TimePickers).
+    - [x] Sub-task: Persist settings using `DataStore` or `SharedPreferences`.
 
 ## Phase 4: Integration & Polish
 - [ ] Task: Wire up the `Settings` to the `PrankWorker` (reschedule on change).
