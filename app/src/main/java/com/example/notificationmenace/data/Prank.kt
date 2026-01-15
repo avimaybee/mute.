@@ -5,7 +5,8 @@ data class Prank(
     val type: PrankType,
     val senderName: String,
     val messageBody: String,
-    val punchlineText: String
+    val punchlineText: String,
+    val tags: List<ContextTrigger> = listOf(ContextTrigger.GENERAL)
 )
 
 enum class PrankType {
