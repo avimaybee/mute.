@@ -11,11 +11,18 @@ class PrankWorker(
     workerParams: WorkerParameters
 ) : CoroutineWorker(appContext, workerParams) {
 
-    private val repository = PrankRepository()
+    private val repository = PrankRepository
     private val notificationHelper = NotificationManagerHelper(appContext)
 
     override suspend fun doWork(): Result {
-        val prank = repository.getRandomPrank()
+        val triggerTag = inputData.getString("trigger_tag")
+        
+        val prank = if (triggerTag != null) {
+            val trigger = com.example.notificationmenace.data.ContextTrigger.fromTag(triggerTag)
+            repository.getPrankForTrigger(trigger)
+        } else {
+            repository.getRandomPrank()
+        }
         
         notificationHelper.showNotification(prank)
         
