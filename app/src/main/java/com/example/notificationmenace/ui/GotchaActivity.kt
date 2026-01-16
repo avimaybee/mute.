@@ -9,7 +9,7 @@ import com.example.notificationmenace.util.NotificationManagerHelper
 class GotchaActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityGotchaBinding
-    private val repository = PrankRepository()
+    private val repository = PrankRepository
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

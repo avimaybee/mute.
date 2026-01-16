@@ -17,11 +17,11 @@ class ContextMonitorWorker(
     workerParams: WorkerParameters
 ) : CoroutineWorker(appContext, workerParams) {
 
-    private val repository = PrankRepository()
     private val notificationHelper = NotificationManagerHelper(appContext)
 
     override suspend fun doWork(): Result {
         val detectedTriggers = mutableListOf<ContextTrigger>()
+        val repository = PrankRepository
 
         // Check Battery
         val batteryStatus: Intent? = applicationContext.registerReceiver(null, IntentFilter(Intent.ACTION_BATTERY_CHANGED))
