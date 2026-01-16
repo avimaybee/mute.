@@ -21,23 +21,9 @@ Mute's voice is a blend of:
 - **Notification Engine:** 150+ text-based pranks categorized by type (Barnum observations, fake urgencies, roasts).
 - **Smart Scheduling:** Reliable background delivery using WorkManager with user-adjustable frequency and quiet hours.
 - **Transparency:** Clear branding to ensure users always know notifications are from Mute, avoiding actual deception.
+- **Context Awareness:** Reacts to real-time events like unlocking, charging, and low battery.
+- **Hybrid Content:** Combines evergreen local pranks with remotely fetched daily content.
 
 ## Critical Constraints
 - **Efficiency:** Must maintain extremely low battery drain (<0.5% daily) and minimal performance footprint.
 - **Compliance:** Strict adherence to platform policies regarding transparency and user control.
-
-## Phase 2: Unpredictable Context Engine (The "Alive" Update)
-### Goals
-Transform "Mute" from a reactive, manual app into an unpredictable, context-aware companion.
-
-### Features
-1.  **Context Detection:**
-    *   **Screen:** Detect unlock events (requires "Active Mode").
-    *   **Battery:** React to charging and low battery (<15%).
-    *   **Connectivity:** Adapt to offline/online states.
-2.  **Hybrid Content:**
-    *   **Local:** Evergreen pranks for offline use.
-    *   **Remote:** Daily fetch of "Brainrot" content from remote JSON.
-3.  **Smart Logic:**
-    *   Context-tagged pranks (e.g., `#battery_low`).
-    *   WorkManager for gap-filling during quiet hours.

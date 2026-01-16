@@ -12,6 +12,7 @@
 ## Libraries & Frameworks
 - **UI:** Material Components, AppCompat, ConstraintLayout.
 - **Background Tasks:** WorkManager (for notification scheduling).
+- **Context Monitoring:** BroadcastReceivers (System Events).
 - **Navigation:** Jetpack Navigation Component.
 - **Testing:** JUnit 4, Espresso, AndroidX Test.
 
