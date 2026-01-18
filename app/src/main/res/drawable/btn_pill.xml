@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/mute_orange">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="100dp" /> <!-- Pill shape -->
+            <solid android:color="@color/mute_platinum" />
+            <padding
+                android:left="16dp"
+                android:top="8dp"
+                android:right="16dp"
+                android:bottom="8dp" />
+        </shape>
+    </item>
+</ripple>

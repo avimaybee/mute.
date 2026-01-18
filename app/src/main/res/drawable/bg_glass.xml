@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="#1F1F1F" /> <!-- Fallback solid -->
+    <solid android:color="#cc1A1A1A" /> <!-- 80% Opacity Charcoal -->
+    <corners android:radius="16dp" />
+    <stroke android:width="0.5dp" android:color="#33FFFFFF" /> <!-- Subtle glass border -->
+</shape>

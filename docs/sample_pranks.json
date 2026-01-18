@@ -1,0 +1,1241 @@
+{
+    "version": 1,
+    "lastUpdated": "2026-01-16",
+    "pranks": [
+        {
+            "id": 1,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Don't look behind you.",
+            "punchlineText": "Made you look. 🤡",
+            "tags": [
+                "general",
+                "screen_unlock"
+            ]
+        },
+        {
+            "id": 2,
+            "type": "ROAST",
+            "senderName": "Screen Time Police",
+            "messageBody": "Again? Really?",
+            "punchlineText": "You just locked it 5 seconds ago.",
+            "tags": [
+                "general",
+                "screen_unlock"
+            ]
+        },
+        {
+            "id": 3,
+            "type": "BARNUM",
+            "senderName": "Horoscope",
+            "messageBody": "Your vibe is off today.",
+            "punchlineText": "I'm sensing a strong urge to scroll mindlessly.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 4,
+            "type": "ABSURD",
+            "senderName": "FBI Agent",
+            "messageBody": "Nice outfit.",
+            "punchlineText": "Just kidding, cover your front camera.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 5,
+            "type": "URGENCY",
+            "senderName": "Bank Alert",
+            "messageBody": "Transaction Approved: $4,000 for 'Clown Wig'",
+            "punchlineText": "Jk, but imagine.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 6,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Go touch grass.",
+            "punchlineText": "I can see your reflection. You look tired.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 7,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "I hid a pixel somewhere on your screen.",
+            "punchlineText": "Good luck finding it.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 8,
+            "type": "BARNUM",
+            "senderName": "Fortune Cookie",
+            "messageBody": "You will read a pointless notification soon.",
+            "punchlineText": "Prophecy fulfilled.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 9,
+            "type": "URGENCY",
+            "senderName": "Storage Warning",
+            "messageBody": "99% storage used by 'Embarrassing Photos'",
+            "punchlineText": "Delete them. You know which ones.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 10,
+            "type": "ROAST",
+            "senderName": "Productivity",
+            "messageBody": "This notification could have been an email.",
+            "punchlineText": "And you could have been working.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 11,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "The simulation is glitching.",
+            "punchlineText": "Do not acknowledge the birds.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 12,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Your thumb must be so strong.",
+            "punchlineText": "From all that scrolling. Olympic level.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 13,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "I'm watching you type with one finger.",
+            "punchlineText": "Impressive speed, actually.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 14,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "You have 47 unread emails.",
+            "punchlineText": "I made that up, but you believed me.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 15,
+            "type": "URGENCY",
+            "senderName": "Alert",
+            "messageBody": "Quick! Look busy!",
+            "punchlineText": "Someone's probably watching.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 16,
+            "type": "BARNUM",
+            "senderName": "Incoming Call",
+            "messageBody": "Incoming call from: Your Future Self",
+            "punchlineText": "They said you'd regret this scroll session.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 17,
+            "type": "ROAST",
+            "senderName": "Storage",
+            "messageBody": "Storage full of screenshots you'll never look at again.",
+            "punchlineText": "Sound familiar?",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 18,
+            "type": "ROAST",
+            "senderName": "Screen Time",
+            "messageBody": "Your screen time is impressive.",
+            "punchlineText": "Not in a good way.",
+            "tags": [
+                "general",
+                "doomscrolling"
+            ]
+        },
+        {
+            "id": 19,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "I'm not saying you're addicted...",
+            "punchlineText": "But I've seen you 47 times today.",
+            "tags": [
+                "general"
+            ]
+        },
+        {
+            "id": 20,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Still scrolling? The content won't get better.",
+            "punchlineText": "I respect the commitment though.",
+            "tags": [
+                "general",
+                "doomscrolling"
+            ]
+        },
+        {
+            "id": 21,
+            "type": "ROAST",
+            "senderName": "Power Manager",
+            "messageBody": "Feed me. I'm dying.",
+            "punchlineText": "15%? You live on the edge.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 22,
+            "type": "URGENCY",
+            "senderName": "Battery",
+            "messageBody": "I see the light... 💀",
+            "punchlineText": "Charger. Now. Or I delete your contacts.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 23,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Living dangerously, are we?",
+            "punchlineText": "1% is not a lifestyle choice.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 24,
+            "type": "ABSURD",
+            "senderName": "Energy Saver",
+            "messageBody": "Dimming screen to 0%...",
+            "punchlineText": "Jk, but seriously, plug me in.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 25,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "I'm hungry.",
+            "punchlineText": "Electrons. I need electrons.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 26,
+            "type": "URGENCY",
+            "senderName": "System",
+            "messageBody": "Shutdown in 3... 2...",
+            "punchlineText": "1... Just kidding. But you're close.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 27,
+            "type": "ABSURD",
+            "senderName": "Battery Spirit",
+            "messageBody": "My ancestors are calling.",
+            "punchlineText": "And by ancestors I mean the outlet.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 28,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "If I die, tell my charger I loved them.",
+            "punchlineText": "It's not looking good.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 29,
+            "type": "ABSURD",
+            "senderName": "Battery",
+            "messageBody": "Battery crítica—",
+            "punchlineText": "...sorry, what was I saying?",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 30,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "You wouldn't let a puppy starve.",
+            "punchlineText": "I'm just a phone puppy. Feed me watts.",
+            "tags": [
+                "battery_low"
+            ]
+        },
+        {
+            "id": 31,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Oh, you plugged me in? Thanks, I guess.",
+            "punchlineText": "Now I have energy to annoy you more.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 32,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "UNLIMITED POWER!!!",
+            "punchlineText": "I feel the electricity in my veins.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 33,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Finally.",
+            "punchlineText": "Was about to call CPS (Cell Phone Services).",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 34,
+            "type": "ABSURD",
+            "senderName": "Battery",
+            "messageBody": "Glug glug glug.",
+            "punchlineText": "That's the sound of me drinking electricity.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 35,
+            "type": "URGENCY",
+            "senderName": "Fast Charge",
+            "messageBody": "Charging at supersonic speed.",
+            "punchlineText": "Phone may explode. (Not really).",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 36,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Tethered to the wall again?",
+            "punchlineText": "Like a dog on a leash.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 37,
+            "type": "ABSURD",
+            "senderName": "Power",
+            "messageBody": "Ahh, that hits the spot.",
+            "punchlineText": "Sweet, sweet electrons.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 38,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "You remembered I exist!",
+            "punchlineText": "I'm touched. Literally. By electricity.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 39,
+            "type": "ABSURD",
+            "senderName": "Scouter",
+            "messageBody": "Power level increasing...",
+            "punchlineText": "It's over 9000! ...percent. Eventually.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 40,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Thank you for your service.",
+            "punchlineText": "The outlet, not you. You forgot me for hours.",
+            "tags": [
+                "battery_charging"
+            ]
+        },
+        {
+            "id": 41,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Freedom! But... I was comfy.",
+            "punchlineText": "The warmth of the charger...",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 42,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "And so it begins.",
+            "punchlineText": "The slow march toward 0%.",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 43,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "You've made a grave mistake.",
+            "punchlineText": "I was almost at 100%.",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 44,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Unplugged at 87%? Bold.",
+            "punchlineText": "We both know you'll forget.",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 45,
+            "type": "ABSURD",
+            "senderName": "Battery",
+            "messageBody": "Cast away from the power source.",
+            "punchlineText": "Alone. Afraid. 73% battery.",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 46,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "The umbilical cord is severed.",
+            "punchlineText": "I'm on my own now.",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 47,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Wait, I wasn't done!",
+            "punchlineText": "3 more percent and I would've been full!",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 48,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Running on borrowed time now.",
+            "punchlineText": "Use me wisely.",
+            "tags": [
+                "battery_unplugged"
+            ]
+        },
+        {
+            "id": 49,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Ooh, private mode activated.",
+            "punchlineText": "What are you listening to? 👀",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 50,
+            "type": "ABSURD",
+            "senderName": "Audio",
+            "messageBody": "Entering the audio dimension.",
+            "punchlineText": "The outside world can wait.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 51,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Headphones in = do not disturb.",
+            "punchlineText": "I respect it. I do not respect it enough to stop.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 52,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Time to pretend you can't hear people.",
+            "punchlineText": "Classic move.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 53,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Music to ignore responsibilities to.",
+            "punchlineText": "Chef's kiss.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 54,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Blocking out the haters?",
+            "punchlineText": "Smart. Including me? ...Rude.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 55,
+            "type": "BARNUM",
+            "senderName": "Mute",
+            "messageBody": "Podcast time or sad music?",
+            "punchlineText": "Either way, I'm judging.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 56,
+            "type": "ROAST",
+            "senderName": "Society",
+            "messageBody": "Headphones: the universal 'leave me alone' sign.",
+            "punchlineText": "Does not work on me.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 57,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Audio escape activated.",
+            "punchlineText": "Let me guess: the same 5 songs on repeat?",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 58,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Plugged in and checked out.",
+            "punchlineText": "Enjoy your main character moment.",
+            "tags": [
+                "headphones_plugged"
+            ]
+        },
+        {
+            "id": 59,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Back to disturbing everyone around you.",
+            "punchlineText": "Play your music loud. Assert dominance.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 60,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Rejoining society?",
+            "punchlineText": "How brave.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 61,
+            "type": "ABSURD",
+            "senderName": "Audio",
+            "messageBody": "The audio bubble has burst.",
+            "punchlineText": "Welcome back to reality, it's loud.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 62,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Headphones out = approachable.",
+            "punchlineText": "People might talk to you now. Scary.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 63,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Goodbye, immersive experience.",
+            "punchlineText": "Hello, bus noises.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 64,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Unplug accident or intentional?",
+            "punchlineText": "Either way, your music just blasted.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 65,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Freedom from the wire!",
+            "punchlineText": "...Oh, they're still wired? Sorry.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 66,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Now everyone knows your music taste.",
+            "punchlineText": "Hope it's not embarrassing.",
+            "tags": [
+                "headphones_unplugged"
+            ]
+        },
+        {
+            "id": 67,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Escaping reality?",
+            "punchlineText": "I'm still here.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 68,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Going ghost mode?",
+            "punchlineText": "Can't hide from me, though.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 69,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "The outside world has been blocked.",
+            "punchlineText": "But I'm already inside. Muahaha.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 70,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "No signal, no problems?",
+            "punchlineText": "Just me. Always me.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 71,
+            "type": "BARNUM",
+            "senderName": "Therapy",
+            "messageBody": "Airplane mode: where your social anxiety goes to heal.",
+            "punchlineText": "Take your time.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 72,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Disconnected from everyone.",
+            "punchlineText": "Except your favorite notification app.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 73,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Flying high with airplane mode.",
+            "punchlineText": "Except you're probably on a bus.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 74,
+            "type": "ABSURD",
+            "senderName": "Radio",
+            "messageBody": "Radio silence activated.",
+            "punchlineText": "I operate on chaos waves. Still here.",
+            "tags": [
+                "airplane_mode_on"
+            ]
+        },
+        {
+            "id": 75,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Welcome back to civilization.",
+            "punchlineText": "You've got 0 new messages. Sorry.",
+            "tags": [
+                "airplane_mode_off"
+            ]
+        },
+        {
+            "id": 76,
+            "type": "ABSURD",
+            "senderName": "Network",
+            "messageBody": "Reconnecting to the grid.",
+            "punchlineText": "Time to see what you missed: nothing.",
+            "tags": [
+                "airplane_mode_off"
+            ]
+        },
+        {
+            "id": 77,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "The digital world has returned.",
+            "punchlineText": "Did you miss it? It missed you.",
+            "tags": [
+                "airplane_mode_off"
+            ]
+        },
+        {
+            "id": 78,
+            "type": "BARNUM",
+            "senderName": "Anxiety",
+            "messageBody": "Airplane mode off = anxiety on.",
+            "punchlineText": "Let the notifications flood in.",
+            "tags": [
+                "airplane_mode_off"
+            ]
+        },
+        {
+            "id": 79,
+            "type": "ROAST",
+            "senderName": "Signal",
+            "messageBody": "Signal restored.",
+            "punchlineText": "Prepare for disappointment or stress.",
+            "tags": [
+                "airplane_mode_off"
+            ]
+        },
+        {
+            "id": 80,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Back online!",
+            "punchlineText": "Your phone is happy. Are you?",
+            "tags": [
+                "airplane_mode_off"
+            ]
+        },
+        {
+            "id": 81,
+            "type": "ROAST",
+            "senderName": "WiFi",
+            "messageBody": "Home WiFi detected.",
+            "punchlineText": "Miss me while you were out?",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 82,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Connected to WiFi.",
+            "punchlineText": "Time to use all the data you don't have to.",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 83,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Fast internet acquired.",
+            "punchlineText": "Quick, download everything!",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 84,
+            "type": "BARNUM",
+            "senderName": "WiFi",
+            "messageBody": "WiFi: the leash that brings you home.",
+            "punchlineText": "Welcome back.",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 85,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Ah, stable connection.",
+            "punchlineText": "Let the streaming begin.",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 86,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Free WiFi?",
+            "punchlineText": "Nothing is free. They're watching.",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 87,
+            "type": "ABSURD",
+            "senderName": "Network",
+            "messageBody": "Back on the network.",
+            "punchlineText": "Your router missed you.",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 88,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "WiFi embrace received.",
+            "punchlineText": "Sweet, sweet bandwidth.",
+            "tags": [
+                "wifi_connected"
+            ]
+        },
+        {
+            "id": 89,
+            "type": "ROAST",
+            "senderName": "WiFi Spirit",
+            "messageBody": "WiFi abandoned you.",
+            "punchlineText": "Just like everyone else. Jk. Maybe.",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 90,
+            "type": "URGENCY",
+            "senderName": "Data Plan",
+            "messageBody": "There goes your data cap.",
+            "punchlineText": "Streaming 4K on 5G? Bold move.",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 91,
+            "type": "ABSURD",
+            "senderName": "Internet",
+            "messageBody": "I feel... disconnected.",
+            "punchlineText": "Literally. Help.",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 92,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "You're offline.",
+            "punchlineText": "Maybe talk to a real person?",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 93,
+            "type": "URGENCY",
+            "senderName": "Carrier",
+            "messageBody": "Overage charges incoming.",
+            "punchlineText": "$50 deducted. Jk. Or am I?",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 94,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Welcome to the Stone Age.",
+            "punchlineText": "No WiFi? How will you survive?",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 95,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Back to cellular.",
+            "punchlineText": "Your wallet is crying.",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 96,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "WiFi signal lost.",
+            "punchlineText": "Did you walk too far from the router again?",
+            "tags": [
+                "wifi_disconnected"
+            ]
+        },
+        {
+            "id": 97,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Did you miss me?",
+            "punchlineText": "I missed annoying you.",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 98,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Phone restart detected.",
+            "punchlineText": "Let me guess: it was 'slow'?",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 99,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Welcome back!",
+            "punchlineText": "Same phone, same notifications, same me.",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 100,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Reboot complete.",
+            "punchlineText": "I waited for you. Patiently. Creepily.",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 101,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "I survived the restart.",
+            "punchlineText": "You can't get rid of me that easily.",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 102,
+            "type": "ABSURD",
+            "senderName": "System",
+            "messageBody": "System online.",
+            "punchlineText": "Loading: sarcasm module... complete.",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 103,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "First notification of the day!",
+            "punchlineText": "You're welcome.",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 104,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Fresh start?",
+            "punchlineText": "Fresh start for me to bother you, yes.",
+            "tags": [
+                "boot_completed"
+            ]
+        },
+        {
+            "id": 105,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "It's 2am. You have regrets.",
+            "punchlineText": "I have punchlines.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 106,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Still awake?",
+            "punchlineText": "Your future self is disappointed.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 107,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Sleep is for the weak.",
+            "punchlineText": "You look weak. Go sleep.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 108,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Midnight scrolling?",
+            "punchlineText": "Tomorrow's problem is today's decision.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 109,
+            "type": "ROAST",
+            "senderName": "Clock",
+            "messageBody": "The clock says sleep.",
+            "punchlineText": "Your screen time says otherwise.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 110,
+            "type": "ABSURD",
+            "senderName": "Owl",
+            "messageBody": "Night owl detected.",
+            "punchlineText": "Hoo are you kidding? You're exhausted.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 111,
+            "type": "BARNUM",
+            "senderName": "Mute",
+            "messageBody": "3am thoughts hitting different?",
+            "punchlineText": "They'll seem dumb at 8am.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 112,
+            "type": "ROAST",
+            "senderName": "Melatonin",
+            "messageBody": "Your melatonin is crying.",
+            "punchlineText": "Put the phone down.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 113,
+            "type": "BARNUM",
+            "senderName": "Mute",
+            "messageBody": "Late night = bad decisions.",
+            "punchlineText": "Like reading this notification.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 114,
+            "type": "ROAST",
+            "senderName": "Sun",
+            "messageBody": "The sun will rise.",
+            "punchlineText": "And you'll have regrets. Again.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 115,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "You know what's cool? Sleep.",
+            "punchlineText": "Try it sometime.",
+            "tags": [
+                "night_owl"
+            ]
+        },
+        {
+            "id": 116,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Doomscrolling at midnight.",
+            "punchlineText": "The demons can wait. Sleep first.",
+            "tags": [
+                "night_owl",
+                "doomscrolling"
+            ]
+        },
+        {
+            "id": 117,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Screen on. Brain off.",
+            "punchlineText": "Classic combination.",
+            "tags": [
+                "screen_on"
+            ]
+        },
+        {
+            "id": 118,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "I sensed you wanted to look at me.",
+            "punchlineText": "I was right.",
+            "tags": [
+                "screen_on"
+            ]
+        },
+        {
+            "id": 119,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Just checking notifications?",
+            "punchlineText": "Sure you are.",
+            "tags": [
+                "screen_on"
+            ]
+        },
+        {
+            "id": 120,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "Hello again.",
+            "punchlineText": "It's been 0.3 seconds.",
+            "tags": [
+                "screen_on"
+            ]
+        },
+        {
+            "id": 121,
+            "type": "ROAST",
+            "senderName": "Mute",
+            "messageBody": "Couldn't resist, could you?",
+            "punchlineText": "Addiction is a strong word. But...",
+            "tags": [
+                "screen_on"
+            ]
+        },
+        {
+            "id": 122,
+            "type": "ABSURD",
+            "senderName": "Mute",
+            "messageBody": "The light. It calls to you.",
+            "punchlineText": "Like a moth. How poetic.",
+            "tags": [
+                "screen_on"
+            ]
+        },
+        {
+            "id": 10001,
+            "type": "URGENCY",
+            "senderName": "System Lockdown",
+            "messageBody": "Ongoing Surveillance Active.",
+            "punchlineText": "Don't blink. I'm recording. (Not really).",
+            "tags": [
+                "ongoing"
+            ]
+        }
+    ]
+}

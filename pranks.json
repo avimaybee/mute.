@@ -1,0 +1,889 @@
+{
+  "version": 1.3,
+  "lastUpdated": "2026-01-17",
+  "pranks": [
+    {
+      "id": 1,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Don't look behind you.",
+      "punchlineText": "Made you look. 🤡",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "ROAST",
+      "senderName": "Screen Time Police",
+      "messageBody": "Again? Really?",
+      "punchlineText": "You just locked it 5 seconds ago.",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "BARNUM",
+      "senderName": "Horoscope",
+      "messageBody": "Your vibe is off today.",
+      "punchlineText": "I'm sensing a strong urge to scroll mindlessly.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "ABSURD",
+      "senderName": "FBI Agent",
+      "messageBody": "Nice outfit.",
+      "punchlineText": "Just kidding, cover your front camera.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "URGENCY",
+      "senderName": "Bank Alert",
+      "messageBody": "Transaction Approved: \\$4,000 for 'Clown Wig'",
+      "punchlineText": "Jk, but imagine.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Go touch grass.",
+      "punchlineText": "Your aura is getting dangerously low. -5000 points.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "I hid a pixel somewhere on your screen.",
+      "punchlineText": "Good luck finding it.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "BARNUM",
+      "senderName": "Fortune Cookie",
+      "messageBody": "You will read a pointless notification soon.",
+      "punchlineText": "Prophecy fulfilled.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "URGENCY",
+      "senderName": "Storage Warning",
+      "messageBody": "99% storage used by 'Embarrassing Photos'",
+      "punchlineText": "Delete them. You know which ones.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "ROAST",
+      "senderName": "Productivity",
+      "messageBody": "This notification could have been an email.",
+      "punchlineText": "And you could have been working.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "The simulation is glitching.",
+      "punchlineText": "Do not acknowledge the birds.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Your thumb must be so strong.",
+      "punchlineText": "From all that scrolling. Olympic level.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "I'm watching you type with one finger.",
+      "punchlineText": "Impressive speed, actually.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "You have 47 unread emails.",
+      "punchlineText": "I made that up, but you believed me.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "URGENCY",
+      "senderName": "Alert",
+      "messageBody": "Quick! Look busy!",
+      "punchlineText": "Someone's probably watching.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "BARNUM",
+      "senderName": "Incoming Call",
+      "messageBody": "Incoming call from: Your Future Self",
+      "punchlineText": "They said you'd regret this scroll session.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "ROAST",
+      "senderName": "Storage",
+      "messageBody": "Storage full of screenshots you'll never look at again.",
+      "punchlineText": "Sound familiar?",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "ROAST",
+      "senderName": "Screen Time",
+      "messageBody": "Your screen time is impressive.",
+      "punchlineText": "Not in a good way.",
+      "tags": [
+        "GENERAL",
+        "DOOMSCROLLING"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "I'm not saying you're addicted...",
+      "punchlineText": "But I've seen you 47 times today.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Still scrolling? The content won't get better.",
+      "punchlineText": "I respect the commitment though.",
+      "tags": [
+        "GENERAL",
+        "DOOMSCROLLING"
+      ]
+    },
+    {
+      "id": 123,
+      "type": "ROAST",
+      "senderName": "Aura Check",
+      "messageBody": "You unlocked your phone again.",
+      "punchlineText": "-5000 aura points immediately.",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 124,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Tralalero Tralala...",
+      "punchlineText": "Turn around. The shark in sneakers is watching.",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 125,
+      "type": "ROAST",
+      "senderName": "Screen Time",
+      "messageBody": "Bro is cooking.",
+      "punchlineText": "Cooking his own braincells with this screen time.",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 126,
+      "type": "URGENCY",
+      "senderName": "Fanum Tax",
+      "messageBody": "Alert: Snack Tax Due",
+      "punchlineText": "I'm taking 20% of your battery as Fanum Tax.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 127,
+      "type": "BARNUM",
+      "senderName": "Vibe Check",
+      "messageBody": "The vibes are off.",
+      "punchlineText": "You're giving NPC energy right now. Lock in.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 128,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Why are you like this?",
+      "punchlineText": "It's giving 'chronically online'. Touch grass.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 129,
+      "type": "ABSURD",
+      "senderName": "Brainrot",
+      "messageBody": "Skibidi dop dop yes yes.",
+      "punchlineText": "I don't even know what that means anymore.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 130,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Look at you.",
+      "punchlineText": "Doomscrolling in 4K. Absolute cinema.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 131,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "I found a leaf.",
+      "punchlineText": "Does that mean we're married now? TikTok says yes.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 132,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Imagine unlocking your phone.",
+      "punchlineText": "Couldn't be me. I'm just a script.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 133,
+      "type": "BARNUM",
+      "senderName": "Fortune",
+      "messageBody": "You will see a cringe post soon.",
+      "punchlineText": "And you will like it. Because you're cooked.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 134,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Your attention span:",
+      "punchlineText": "Subway Surfers gameplay running underneath this text.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 135,
+      "type": "ABSURD",
+      "senderName": "System",
+      "messageBody": "Error 404: Rizz not found.",
+      "punchlineText": "Please install 'Charm' v2.0.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 136,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Are you mewing?",
+      "punchlineText": "Because you look like you're holding a fart.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 137,
+      "type": "URGENCY",
+      "senderName": "Alert",
+      "messageBody": "Crash out imminent.",
+      "punchlineText": "Put the phone down before you lose it.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 138,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Bombardiro Crocodilo!",
+      "punchlineText": "He feeds on your productivity.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 139,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Bro thinks he's the main character.",
+      "punchlineText": "You're an NPC in my simulation.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 140,
+      "type": "BARNUM",
+      "senderName": "Horoscope",
+      "messageBody": "Mercury is in retrograde.",
+      "punchlineText": "That explains your outfit today.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 141,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Delulu is the solulu?",
+      "punchlineText": "No, therapy is the solulu. Go.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 142,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Beware the City Boy.",
+      "punchlineText": "He brings karma and no menu.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 143,
+      "type": "ROAST",
+      "senderName": "Security",
+      "messageBody": "Face ID failed.",
+      "punchlineText": "Even your phone doesn't recognize that morning face.",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 144,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Another unlock?",
+      "punchlineText": "You're addicted FRFR. No cap.",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 145,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Choppelganger detected.",
+      "punchlineText": "Is that you in the reflection? Yikes.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 146,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Goated with the sauce?",
+      "punchlineText": "More like bloated with the loss.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 147,
+      "type": "ABSURD",
+      "senderName": "Notification",
+      "messageBody": "This is a 365 button.",
+      "punchlineText": "It only makes sense to me. Keep scrolling.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 148,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "You're glowing.",
+      "punchlineText": "Oh wait, that's just the screen reflection. Grease.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 149,
+      "type": "URGENCY",
+      "senderName": "System",
+      "messageBody": "Cringe levels critical.",
+      "punchlineText": "Please stop posting. For the sake of humanity.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 150,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "I am in your walls.",
+      "punchlineText": "Just kidding. I am in your RAM.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 151,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "L + Ratio",
+      "punchlineText": "You + This Phone = Bad Combo.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 152,
+      "type": "BARNUM",
+      "senderName": "Oracle",
+      "messageBody": "You are waiting for a text.",
+      "punchlineText": "It's not coming. They're 'sleeping'.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 153,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Grimace Shake vibes.",
+      "punchlineText": "That's how you look right now. Unsettling.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 154,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Shadow Wizard Money Gang.",
+      "punchlineText": "We love casting spells. (And judging you).",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 155,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Skill issue.",
+      "punchlineText": "Imagine needing a phone to be entertained.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 156,
+      "type": "URGENCY",
+      "senderName": "Alert",
+      "messageBody": "Your FBI agent is sad.",
+      "punchlineText": "They're bored of watching you scroll TikTok.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 157,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Bro visited his friend.",
+      "punchlineText": "And by 'friend' I mean Instagram Reels.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 158,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Galvanized Square Steel.",
+      "punchlineText": "Expand your room. Borrow screws from aunt.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 159,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "You're not that guy, pal.",
+      "punchlineText": "You're not that guy. Put the phone away.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 160,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Caught in 4K.",
+      "punchlineText": "Wasting time again. Smh.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 161,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Erm, what the sigma?",
+      "punchlineText": "Did you actually just open this app?",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 162,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Your aura is in debt.",
+      "punchlineText": "You owe the universe 500 cool points.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 163,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Are you a munch?",
+      "punchlineText": "Because you're eating up this brainrot.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 164,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Maximum prestige reached.",
+      "punchlineText": "In doing absolutely nothing.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 165,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Side eye.",
+      "punchlineText": "Bombastic side eye. Criminal offensive side eye.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 166,
+      "type": "URGENCY",
+      "senderName": "Alert",
+      "messageBody": "Productivity dropping.",
+      "punchlineText": "It's below zero. We're in the negatives.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 167,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Let him cook.",
+      "punchlineText": "Actually, stop cooking. The kitchen is burning.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 168,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "BFFR.",
+      "punchlineText": "Be For Fucking Real. Another unlock?",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 169,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "You're in your flop era.",
+      "punchlineText": "And this screen time isn't helping.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 170,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Oppenheimer style.",
+      "punchlineText": "I'm about to blow up your notifications.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 171,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "This is why we can't have nice things.",
+      "punchlineText": "Because you're always on your phone.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 172,
+      "type": "BARNUM",
+      "senderName": "Prediction",
+      "messageBody": "You will forget why you unlocked your phone.",
+      "punchlineText": "In 3... 2... 1...",
+      "tags": [
+        "GENERAL",
+        "SCREEN_UNLOCK"
+      ]
+    },
+    {
+      "id": 173,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Simp behavior detected.",
+      "punchlineText": "Waiting for a text back? Sad.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 174,
+      "type": "URGENCY",
+      "senderName": "Mute",
+      "messageBody": "Griddy detected.",
+      "punchlineText": "Please stop doing the griddy mentally.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 175,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Ohio check.",
+      "punchlineText": "Yep, still cursed.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 176,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "You have the rizz of a brick.",
+      "punchlineText": "No charisma. Just scrolling.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 177,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Glow up needed.",
+      "punchlineText": "Start by turning off the screen.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 178,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "Monday left me broken.",
+      "punchlineText": "Tuesday I was through with hoping...",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 179,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Are you blind?",
+      "punchlineText": "Or do you just like burning your retinas?",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 180,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Imagine being productive.",
+      "punchlineText": "Couldn't be you.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 181,
+      "type": "ABSURD",
+      "senderName": "Mute",
+      "messageBody": "One, two, buckle my shoe.",
+      "punchlineText": "Three, four, close the door (and the app).",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 182,
+      "type": "ROAST",
+      "senderName": "Mute",
+      "messageBody": "Bing chilling.",
+      "punchlineText": "You've been chilling for too long. Move.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 183,
+      "type": "LYRICS",
+      "senderName": "Drake",
+      "messageBody": "God's Plan.",
+      "punchlineText": "I don't think this screen time was part of it.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 184,
+      "type": "LYRICS",
+      "senderName": "The Weeknd",
+      "messageBody": "Blinding Lights.",
+      "punchlineText": "Literally. Your screen is too bright.",
+      "tags": [
+        "GENERAL",
+        "NIGHT_OWL"
+      ]
+    },
+    {
+      "id": 185,
+      "type": "LYRICS",
+      "senderName": "Taylor Swift",
+      "messageBody": "Note on the door...",
+      "punchlineText": "It says 'Go Outside'.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 186,
+      "type": "LYRICS",
+      "senderName": "Kendrick",
+      "messageBody": "Be Humble.",
+      "punchlineText": "Sit down. (Wait, you're already sitting).",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 187,
+      "type": "LYRICS",
+      "senderName": "SZA",
+      "messageBody": "I might kill my ex.",
+      "punchlineText": "Or my battery. Same vibe.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 188,
+      "type": "LYRICS",
+      "senderName": "Harry Styles",
+      "messageBody": "Sign of the Times.",
+      "punchlineText": "Just stop your crying.",
+      "tags": [
+        "GENERAL"
+      ]
+    },
+    {
+      "id": 535,
+      "type": "LYRICS",
+      "senderName": "Frank Ocean",
+      "messageBody": "Nights.",
+      "punchlineText": "Round the city, round the clock.",
+      "tags": [
+        "NIGHT_OWL"
+      ]
+    }
+  ]
+}
