@@ -1,0 +1,552 @@
+[
+    {
+        "id": 223,
+        "type": "ABSURD",
+        "senderName": "Snail",
+        "messageBody": "I am approaching.",
+        "punchlineText": "ETA: 4 years.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 224,
+        "type": "ROAST",
+        "senderName": "Motivation",
+        "messageBody": "You can do it!",
+        "punchlineText": "Probably not though. Let's be real.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 225,
+        "type": "URGENCY",
+        "senderName": "Alarm",
+        "messageBody": "Wake up!",
+        "punchlineText": "To the reality of your life.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 226,
+        "type": "ABSURD",
+        "senderName": "Time Traveller",
+        "messageBody": "Don't ignore this.",
+        "punchlineText": "The fate of 2035 depends on you eating a taco today.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 227,
+        "type": "ROAST",
+        "senderName": "Gym Membership",
+        "messageBody": "I miss you.",
+        "punchlineText": "It's been 84 years.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 228,
+        "type": "URGENCY",
+        "senderName": "Bank",
+        "messageBody": "Withdrawal: $1,000,000",
+        "punchlineText": "Insufficient funds. Also, you wish.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 229,
+        "type": "ABSURD",
+        "senderName": "Cat",
+        "messageBody": "Meow.",
+        "punchlineText": "Feed me. I don't care about your meeting.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 230,
+        "type": "ROAST",
+        "senderName": "Mirror",
+        "messageBody": "Looking good!",
+        "punchlineText": "From a distance. In the dark.",
+        "tags": [
+            "screen_unlock",
+            "roast"
+        ]
+    },
+    {
+        "id": 231,
+        "type": "URGENCY",
+        "senderName": "Pizza",
+        "messageBody": "I am here.",
+        "punchlineText": "In your mind. You're hungry.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 232,
+        "type": "ABSURD",
+        "senderName": "Alien",
+        "messageBody": "Take me to your leader.",
+        "punchlineText": "Wait, is this the leader? Disappointing.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 233,
+        "type": "ROAST",
+        "senderName": "Life Coach",
+        "messageBody": "Seize the day!",
+        "punchlineText": "Or just seize the remote. Whatever.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 234,
+        "type": "URGENCY",
+        "senderName": "Plant",
+        "messageBody": "Water me.",
+        "punchlineText": "I am crispy.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 235,
+        "type": "ABSURD",
+        "senderName": "Ghost",
+        "messageBody": "Booo!",
+        "punchlineText": "Get scared. Please. I'm trying.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 236,
+        "type": "ROAST",
+        "senderName": "Wallet",
+        "messageBody": "Money can't buy happiness.",
+        "punchlineText": "But it can buy pizza, which is the same thing.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 237,
+        "type": "URGENCY",
+        "senderName": "Brain",
+        "messageBody": "Important thought incoming...",
+        "punchlineText": "Buffering... Forgot it.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 238,
+        "type": "ABSURD",
+        "senderName": "Shoe",
+        "messageBody": "Untied.",
+        "punchlineText": "Trip hazard activated.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 239,
+        "type": "ROAST",
+        "senderName": "Bed",
+        "messageBody": "I'm calling the police.",
+        "punchlineText": "You stole the covers again.",
+        "tags": [
+            "night_owl",
+            "roast"
+        ]
+    },
+    {
+        "id": 240,
+        "type": "URGENCY",
+        "senderName": "Coffee",
+        "messageBody": "Drink me.",
+        "punchlineText": "Or suffer the headache.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 241,
+        "type": "ABSURD",
+        "senderName": "Refrigerator",
+        "messageBody": "Light is on.",
+        "punchlineText": "Is someone in there?",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 242,
+        "type": "ROAST",
+        "senderName": "Book",
+        "messageBody": "Read me.",
+        "punchlineText": "I'm gathering dust. Intellectual.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 243,
+        "type": "URGENCY",
+        "senderName": "Sun",
+        "messageBody": "Too bright?",
+        "punchlineText": "Put on sunglasses. Deal with it.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 244,
+        "type": "ABSURD",
+        "senderName": "Cloud",
+        "messageBody": "I look like a bunny.",
+        "punchlineText": "Now I look like an old man. Verify manually.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 245,
+        "type": "ROAST",
+        "senderName": "Pen",
+        "messageBody": "I'm lost.",
+        "punchlineText": "Check under the couch cushions.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 246,
+        "type": "URGENCY",
+        "senderName": "Sock",
+        "messageBody": "Help!",
+        "punchlineText": "I'm being eaten by the dryer. Goodbye.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 247,
+        "type": "ABSURD",
+        "senderName": "Key",
+        "messageBody": "Where am I?",
+        "punchlineText": "In the last place you look.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 248,
+        "type": "ROAST",
+        "senderName": "Remote",
+        "messageBody": "Button jammed.",
+        "punchlineText": "Stop eating chips while using me.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 249,
+        "type": "URGENCY",
+        "senderName": "Spider",
+        "messageBody": "I'm on the ceiling.",
+        "punchlineText": "Don't look up.",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 250,
+        "type": "ABSURD",
+        "senderName": "Fly",
+        "messageBody": "Bzzzzzzzz.",
+        "punchlineText": "*Lands on screen*",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 251,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "You clicked it.",
+        "punchlineText": "I knew you would. Predictable.",
+        "tags": [
+            "screen_unlock",
+            "roast"
+        ]
+    },
+    {
+        "id": 252,
+        "type": "URGENCY",
+        "senderName": "Left Earbud",
+        "messageBody": "Battery Low.",
+        "punchlineText": "Right earbud is fine. Enjoy mono audio.",
+        "tags": [
+            "headphones_plugged",
+            "roast"
+        ]
+    },
+    {
+        "id": 253,
+        "type": "ABSURD",
+        "senderName": "Music",
+        "messageBody": "Paused.",
+        "punchlineText": "For dramatic effect.",
+        "tags": [
+            "headphones_plugged",
+            "absurd"
+        ]
+    },
+    {
+        "id": 254,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Singing along?",
+        "punchlineText": "Please don't. The mic is sensitive.",
+        "tags": [
+            "headphones_plugged",
+            "roast"
+        ]
+    },
+    {
+        "id": 255,
+        "type": "URGENCY",
+        "senderName": "Shuffle",
+        "messageBody": "Playing 'That Sad Song'.",
+        "punchlineText": "Prepare to cry.",
+        "tags": [
+            "headphones_plugged",
+            "roast"
+        ]
+    },
+    {
+        "id": 256,
+        "type": "ABSURD",
+        "senderName": "Volume Limit",
+        "messageBody": "Exceeded.",
+        "punchlineText": "Eardrums have left the chat.",
+        "tags": [
+            "headphones_plugged",
+            "edgy"
+        ]
+    },
+    {
+        "id": 257,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Skipping track...",
+        "punchlineText": "Because your taste is questionable.",
+        "tags": [
+            "headphones_plugged",
+            "roast"
+        ]
+    },
+    {
+        "id": 258,
+        "type": "URGENCY",
+        "senderName": "Bass Boost",
+        "messageBody": "Enabled.",
+        "punchlineText": "Everything is shaking.",
+        "tags": [
+            "headphones_plugged",
+            "absurd"
+        ]
+    },
+    {
+        "id": 259,
+        "type": "ABSURD",
+        "senderName": "Audio Cable",
+        "messageBody": "Tangled.",
+        "punchlineText": "In a knot that defies physics.",
+        "tags": [
+            "headphones_plugged",
+            "roast"
+        ]
+    },
+    {
+        "id": 260,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Disconnecting...",
+        "punchlineText": "Because I'm bored of this album.",
+        "tags": [
+            "headphones_plugged",
+            "roast"
+        ]
+    },
+    {
+        "id": 261,
+        "type": "URGENCY",
+        "senderName": "WiFi",
+        "messageBody": "Connected.",
+        "punchlineText": "To 'FBI Surveillance Van #4'.",
+        "tags": [
+            "wifi_connected",
+            "edgy"
+        ]
+    },
+    {
+        "id": 262,
+        "type": "ABSURD",
+        "senderName": "Router",
+        "messageBody": "Blinking lights.",
+        "punchlineText": "It means I'm thinking. Or dying.",
+        "tags": [
+            "wifi_connected",
+            "corny"
+        ]
+    },
+    {
+        "id": 263,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Weak Signal.",
+        "punchlineText": "Move closer. Or get better internet.",
+        "tags": [
+            "wifi_connected",
+            "roast"
+        ]
+    },
+    {
+        "id": 264,
+        "type": "URGENCY",
+        "senderName": "IP Address",
+        "messageBody": "Changed.",
+        "punchlineText": "You are now in... Antarctica?",
+        "tags": [
+            "wifi_connected",
+            "absurd"
+        ]
+    },
+    {
+        "id": 265,
+        "type": "ABSURD",
+        "senderName": "5G Tower",
+        "messageBody": "Activating chip.",
+        "punchlineText": "Download speed increased by 0%.",
+        "tags": [
+            "wifi_connected",
+            "conspiracy"
+        ]
+    },
+    {
+        "id": 266,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "You're lagging.",
+        "punchlineText": "In game and in real life.",
+        "tags": [
+            "wifi_connected",
+            "roast"
+        ]
+    },
+    {
+        "id": 267,
+        "type": "URGENCY",
+        "senderName": "Download",
+        "messageBody": "99% Complete.",
+        "punchlineText": "Stuck forever. Enjoy.",
+        "tags": [
+            "wifi_connected",
+            "roast"
+        ]
+    },
+    {
+        "id": 268,
+        "type": "ABSURD",
+        "senderName": "Modem",
+        "messageBody": "*Dial-up noises*",
+        "punchlineText": "Welcome to 1999.",
+        "tags": [
+            "wifi_connected",
+            "corny"
+        ]
+    },
+    {
+        "id": 269,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Buffering...",
+        "punchlineText": "Like your conversation skills.",
+        "tags": [
+            "wifi_connected",
+            "roast"
+        ]
+    },
+    {
+        "id": 270,
+        "type": "URGENCY",
+        "senderName": "Cyber Police",
+        "messageBody": "We traced you.",
+        "punchlineText": "You're in your bedroom. Groundbreaking.",
+        "tags": [
+            "wifi_connected",
+            "edgy"
+        ]
+    },
+    {
+        "id": 271,
+        "type": "ABSURD",
+        "senderName": "Packet Loss",
+        "messageBody": "Dropping packets.",
+        "punchlineText": "Pick them up.",
+        "tags": [
+            "wifi_connected",
+            "absurd"
+        ]
+    },
+    {
+        "id": 272,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Offline.",
+        "punchlineText": "Go touch grass. Forced edition.",
+        "tags": [
+            "wifi_disconnected",
+            "roast"
+        ]
+    }
+]

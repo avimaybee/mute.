@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome version of the Mute app logo. 
+     Scaled to properly fill the 108dp adaptive icon canvas.
+     Safe zone is 66dp centered, so main content within that area.
+     Uses TRUE transparency for themed icons & notifications.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Ring (Stroked Circle) 
+         Center: 54,54
+         Radius: 46 with stroke 10 = outer edge at 51, inner at 41
+         This fills most of the canvas while staying in safe zone
+    -->
+    <path
+        android:pathData="M54,54m-46,0a46,46 0,1 1,92 0a46,46 0,1 1,-92 0"
+        android:strokeWidth="10"
+        android:strokeColor="#FF000000"
+        android:fillColor="#00000000"/>
+    
+    <!-- Sine Wave (Scaled up proportionally) 
+         Original was 28-80 horizontal span (52 units) centered at 54
+         New span: 14-94 (80 units) for larger coverage
+    -->
+    <path
+        android:fillColor="#FF000000"
+        android:strokeWidth="0"
+        android:pathData="M14,54 
+            Q22,54 28,54 
+            Q34,54 38,44 
+            Q42,34 48,34 
+            Q54,34 54,54 
+            Q54,74 60,74 
+            Q66,74 70,64 
+            Q74,54 80,54 
+            Q86,54 94,54
+            L94,60
+            Q86,60 80,60
+            Q74,60 70,70
+            Q66,80 60,80
+            Q54,80 54,60
+            Q54,40 48,40
+            Q42,40 38,50
+            Q34,60 28,60
+            Q22,60 14,60
+            Z"/>
+</vector>

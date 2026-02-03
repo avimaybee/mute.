@@ -25,8 +25,8 @@ class CooldownManager(context: Context) {
             ContextTrigger.HEADPHONES_UNPLUGGED to 10 * 60 * 1000L,
             ContextTrigger.AIRPLANE_MODE_ON to 5 * 60 * 1000L,
             ContextTrigger.AIRPLANE_MODE_OFF to 5 * 60 * 1000L,
-            ContextTrigger.WIFI_CONNECTED to 30 * 60 * 1000L,
-            ContextTrigger.WIFI_DISCONNECTED to 30 * 60 * 1000L,
+            ContextTrigger.WIFI_CONNECTED to 4 * 60 * 60 * 1000L,   // 4 hours
+            ContextTrigger.WIFI_DISCONNECTED to 4 * 60 * 60 * 1000L,// 4 hours
             ContextTrigger.BOOT_COMPLETED to 0L,               // Always show on boot
             ContextTrigger.ONGOING to 0L,                      // No cooldown for ongoing/forced pranks
             ContextTrigger.NIGHT_OWL to 60 * 60 * 1000L,       // 1 hour
@@ -41,7 +41,8 @@ class CooldownManager(context: Context) {
      * Returns true if enough time has passed since last prank for this trigger.
      */
     fun canPrank(trigger: ContextTrigger): Boolean {
-        val lastPrankTime = prefs.getLong(trigger.tag, 0L)
+        val key = getCoalescingKey(trigger)
+        val lastPrankTime = prefs.getLong(key, 0L)
         val cooldownMs = COOLDOWN_MAP[trigger] ?: DEFAULT_COOLDOWN_MS
         
         return System.currentTimeMillis() - lastPrankTime >= cooldownMs
@@ -51,8 +52,9 @@ class CooldownManager(context: Context) {
      * Records that a prank was just shown for this trigger.
      */
     fun recordPrank(trigger: ContextTrigger) {
+        val key = getCoalescingKey(trigger)
         prefs.edit()
-            .putLong(trigger.tag, System.currentTimeMillis())
+            .putLong(key, System.currentTimeMillis())
             .apply()
     }
     
@@ -67,10 +69,24 @@ class CooldownManager(context: Context) {
      * Gets remaining cooldown time in seconds (for debug purposes).
      */
     fun getRemainingCooldown(trigger: ContextTrigger): Long {
-        val lastPrankTime = prefs.getLong(trigger.tag, 0L)
+        val key = getCoalescingKey(trigger)
+        val lastPrankTime = prefs.getLong(key, 0L)
         val cooldownMs = COOLDOWN_MAP[trigger] ?: DEFAULT_COOLDOWN_MS
         val remaining = cooldownMs - (System.currentTimeMillis() - lastPrankTime)
         
         return if (remaining > 0) remaining / 1000 else 0
+    }
+
+    /**
+     * Maps triggers to shared keys if they should share a cooldown (e.g. Network events).
+     */
+    private fun getCoalescingKey(trigger: ContextTrigger): String {
+        return when (trigger) {
+            ContextTrigger.WIFI_CONNECTED,
+            ContextTrigger.WIFI_DISCONNECTED,
+            ContextTrigger.AIRPLANE_MODE_ON,
+            ContextTrigger.AIRPLANE_MODE_OFF -> "shared_network_event"
+            else -> trigger.tag
+        }
     }
 }

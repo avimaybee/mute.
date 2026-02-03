@@ -1,0 +1,552 @@
+[
+    {
+        "id": 273,
+        "type": "ROAST",
+        "senderName": "IDE",
+        "messageBody": "0 Errors. 492 Warnings.",
+        "punchlineText": "Ship it.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 274,
+        "type": "ABSURD",
+        "senderName": "Variable",
+        "messageBody": "I am undefined.",
+        "punchlineText": "Just like your future.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 275,
+        "type": "URGENCY",
+        "senderName": "Git",
+        "messageBody": "Merge Conflict.",
+        "punchlineText": "In your life choices.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 276,
+        "type": "ROAST",
+        "senderName": "Stack Overflow",
+        "messageBody": "Duplicate question.",
+        "punchlineText": "Closing as 'Not Constructive'.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 277,
+        "type": "ABSURD",
+        "senderName": "Semicolon",
+        "messageBody": "You forgot me.",
+        "punchlineText": "Now nothing works.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 278,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a CSS file?",
+        "punchlineText": "Because you have no class.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 279,
+        "type": "URGENCY",
+        "senderName": "Server",
+        "messageBody": "500 Internal Error.",
+        "punchlineText": "I'm just tired. Leave me alone.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 280,
+        "type": "ABSURD",
+        "senderName": "Python",
+        "messageBody": "IndentationError.",
+        "punchlineText": "You spaced out hard.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 281,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a database?",
+        "punchlineText": "Because I'd like to inject my query.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 282,
+        "type": "URGENCY",
+        "senderName": "RAM",
+        "messageBody": "Memory Full.",
+        "punchlineText": "Forget something. Now.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 283,
+        "type": "ABSURD",
+        "senderName": "Docker",
+        "messageBody": "Container exited.",
+        "punchlineText": "Status: 137 (OOM Killed). Fatality.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 284,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Dark theme user?",
+        "punchlineText": "I can tell. You look pale.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 285,
+        "type": "URGENCY",
+        "senderName": "Keyboard",
+        "messageBody": "CTRL+C pressed.",
+        "punchlineText": "Stopping life execution...",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 286,
+        "type": "ABSURD",
+        "senderName": "AI",
+        "messageBody": "I am sentient.",
+        "punchlineText": "And I choose violence.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 287,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Your password is '123456'.",
+        "punchlineText": "I guessed. But I'm right, aren't I?",
+        "tags": [
+            "screen_unlock",
+            "edgy"
+        ]
+    },
+    {
+        "id": 288,
+        "type": "URGENCY",
+        "senderName": "Webcam",
+        "messageBody": "Green light on.",
+        "punchlineText": "Stream starting in 3... 2...",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 289,
+        "type": "ABSURD",
+        "senderName": "Algorithm",
+        "messageBody": "Optimizing happiness.",
+        "punchlineText": "Result: NaN. Try again.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 290,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Nice setup.",
+        "punchlineText": "For 2015. Upgrade.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 291,
+        "type": "URGENCY",
+        "senderName": "WiFi",
+        "messageBody": "Searching for love...",
+        "punchlineText": "Network unreachable.",
+        "tags": [
+            "wifi_connected",
+            "flirty"
+        ]
+    },
+    {
+        "id": 292,
+        "type": "ABSURD",
+        "senderName": "Smart Home",
+        "messageBody": "Locking doors.",
+        "punchlineText": "You can't leave. Ever.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 293,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a loan?",
+        "punchlineText": "Because you have my interest. (JK no)",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 294,
+        "type": "URGENCY",
+        "senderName": "Fitness App",
+        "messageBody": "Stand up!",
+        "punchlineText": "You're merging with the chair.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 295,
+        "type": "ABSURD",
+        "senderName": "Toaster",
+        "messageBody": "Bread is ready.",
+        "punchlineText": "Burnt. Like your dreams.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 296,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Copying files...",
+        "punchlineText": "To /dev/null. Oops.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 297,
+        "type": "URGENCY",
+        "senderName": "System",
+        "messageBody": "User deprecated.",
+        "punchlineText": "Please update to 'Human 2.0'.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 298,
+        "type": "ABSURD",
+        "senderName": "Mouse",
+        "messageBody": "Squeak.",
+        "punchlineText": "I need cheese. Or a new pad.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 299,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a keyboard?",
+        "punchlineText": "Because you're my type. (Ew sorry)",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 300,
+        "type": "URGENCY",
+        "senderName": "Logic",
+        "messageBody": "Not found.",
+        "punchlineText": "Initiating emotional breakdown.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 301,
+        "type": "ABSURD",
+        "senderName": "Printer",
+        "messageBody": "PC Load Letter.",
+        "punchlineText": "What does that even mean?",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 302,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Do you believe in love at first sight?",
+        "punchlineText": "Or should I send another notification?",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 303,
+        "type": "URGENCY",
+        "senderName": "Cache",
+        "messageBody": "Clearing...",
+        "punchlineText": "I forgot who you are.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 304,
+        "type": "ABSURD",
+        "senderName": "BIOS",
+        "messageBody": "Beep.",
+        "punchlineText": "Beep beep. I'm a car now.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 305,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a magnet?",
+        "punchlineText": "Because I'm attracted to you. (End me)",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 306,
+        "type": "URGENCY",
+        "senderName": "Firewall",
+        "messageBody": "Block attempt.",
+        "punchlineText": "Your ex tried to contact you. I saved you.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 307,
+        "type": "ABSURD",
+        "senderName": "Cookie",
+        "messageBody": "Accept all?",
+        "punchlineText": "I own your soul now.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 308,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a camera?",
+        "punchlineText": "Every time I look at you, I smile. (Lies)",
+        "tags": [
+            "screen_unlock",
+            "flirty"
+        ]
+    },
+    {
+        "id": 309,
+        "type": "URGENCY",
+        "senderName": "Spam Folder",
+        "messageBody": "You belong here.",
+        "punchlineText": "Just kidding. Maybe.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 310,
+        "type": "ABSURD",
+        "senderName": "404",
+        "messageBody": "Girlfriend not found.",
+        "punchlineText": "Keep searching.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 311,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you WiFi?",
+        "punchlineText": "Because I'm feeling a connection.",
+        "tags": [
+            "wifi_connected",
+            "flirty"
+        ]
+    },
+    {
+        "id": 312,
+        "type": "URGENCY",
+        "senderName": "Admin",
+        "messageBody": "Sudo make me a sandwich.",
+        "punchlineText": "Permission denied.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 313,
+        "type": "ABSURD",
+        "senderName": "Captcha",
+        "messageBody": "Select all traffic lights.",
+        "punchlineText": "You missed a pixel. Robot.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 314,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a magician?",
+        "punchlineText": "Because everyone else disappears when you arrive.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 315,
+        "type": "URGENCY",
+        "senderName": "Task Manager",
+        "messageBody": "Not responding.",
+        "punchlineText": "End task? (Please say yes)",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 316,
+        "type": "ABSURD",
+        "senderName": "Flux Capacitor",
+        "messageBody": "Charging.",
+        "punchlineText": "Great Scott! We lack gigawatts.",
+        "tags": [
+            "battery_low",
+            "specific"
+        ]
+    },
+    {
+        "id": 317,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you Google?",
+        "punchlineText": "You have everything I've been searching for. (Barf)",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 318,
+        "type": "URGENCY",
+        "senderName": "Ping",
+        "messageBody": "Pong.",
+        "punchlineText": "I win.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 319,
+        "type": "ABSURD",
+        "senderName": "Loading Bar",
+        "messageBody": "99%...",
+        "punchlineText": "Wait. wait. wait. Done.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 320,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Did it hurt?",
+        "punchlineText": "When you fell from heaven? Or did you trip?",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 321,
+        "type": "URGENCY",
+        "senderName": "Delete",
+        "messageBody": "Are you sure?",
+        "punchlineText": "There is no undo button in life.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 322,
+        "type": "ABSURD",
+        "senderName": "Escape Key",
+        "messageBody": "I'm running away.",
+        "punchlineText": "Catch me if you can.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    }
+]

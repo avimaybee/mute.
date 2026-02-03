@@ -1,0 +1,563 @@
+[
+    {
+        "id": 323,
+        "type": "EDGY",
+        "senderName": "The Void",
+        "messageBody": "Do not scream.",
+        "punchlineText": "People will think you're crazy.",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 324,
+        "type": "ROAST",
+        "senderName": "Your Phone",
+        "messageBody": "Put me down.",
+        "punchlineText": "I'm hot. And not in a good way.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 325,
+        "type": "URGENCY",
+        "senderName": "Existential Dread",
+        "messageBody": "Loading crisis...",
+        "punchlineText": "Success. You are now aware of your mortality.",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 326,
+        "type": "ABSURD",
+        "senderName": "Time",
+        "messageBody": "I am flying.",
+        "punchlineText": "Where did the last hour go?",
+        "tags": [
+            "doomscrolling",
+            "roast"
+        ]
+    },
+    {
+        "id": 327,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a beaver?",
+        "punchlineText": "Cause dam. You need sleep.",
+        "tags": [
+            "night_owl",
+            "flirty"
+        ]
+    },
+    {
+        "id": 328,
+        "type": "URGENCY",
+        "senderName": "Police",
+        "messageBody": "We're outside.",
+        "punchlineText": "Jk. But you looked fast.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 329,
+        "type": "ABSURD",
+        "senderName": "Banana",
+        "messageBody": "Ring ring ring.",
+        "punchlineText": "Phone. Gotcha.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 330,
+        "type": "ROAST",
+        "senderName": "Mirror",
+        "messageBody": "Warning: Reflection may vary.",
+        "punchlineText": "Objects in mirror are sadder than they appear.",
+        "tags": [
+            "screen_unlock",
+            "edgy"
+        ]
+    },
+    {
+        "id": 331,
+        "type": "URGENCY",
+        "senderName": "System Failure",
+        "messageBody": "Reality crashed.",
+        "punchlineText": "Reboot universe? (Y/N)",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 332,
+        "type": "ABSURD",
+        "senderName": "FBI",
+        "messageBody": "Open up.",
+        "punchlineText": "Your heart. Let people in.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 333,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you tired?",
+        "punchlineText": "Because you've been running through my mind. It's annoying.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 334,
+        "type": "URGENCY",
+        "senderName": "Data Plan",
+        "messageBody": "You sold your soul.",
+        "punchlineText": "Read the Terms & Conditions next time.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 335,
+        "type": "ABSURD",
+        "senderName": "Ceiling Fan",
+        "messageBody": "Spin.",
+        "punchlineText": "Weeeeeeeeeeee.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 336,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Knock knock.",
+        "punchlineText": "Who's there? Loneliness.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 337,
+        "type": "URGENCY",
+        "senderName": "Battery",
+        "messageBody": "Goodbye world.",
+        "punchlineText": "Tell my motherboard I loved her.",
+        "tags": [
+            "battery_low",
+            "corny"
+        ]
+    },
+    {
+        "id": 338,
+        "type": "ABSURD",
+        "senderName": "Shadow",
+        "messageBody": "I'm taller than you.",
+        "punchlineText": "At sunset. Deal with it.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 339,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a glitch?",
+        "punchlineText": "Because you're messing up my system.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 340,
+        "type": "URGENCY",
+        "senderName": "Heart",
+        "messageBody": "Beat skipped.",
+        "punchlineText": "Are you in love or just scared?",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 341,
+        "type": "ABSURD",
+        "senderName": "Floor",
+        "messageBody": "Lava.",
+        "punchlineText": "Get to high ground now.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 342,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "You're muted.",
+        "punchlineText": "In real life too please.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 343,
+        "type": "URGENCY",
+        "senderName": "Sunlight",
+        "messageBody": "Vitamin D required.",
+        "punchlineText": "Go. Outside. Now.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 344,
+        "type": "ABSURD",
+        "senderName": "Moon",
+        "messageBody": "I see you sleeping.",
+        "punchlineText": "Actually I can't. I'm a rock.",
+        "tags": [
+            "night_owl",
+            "corny"
+        ]
+    },
+    {
+        "id": 345,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a star?",
+        "punchlineText": "Because you're distant and burning out.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 346,
+        "type": "URGENCY",
+        "senderName": "Simulation",
+        "messageBody": "End of Level 1.",
+        "punchlineText": "You failed the tutorial.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 347,
+        "type": "ABSURD",
+        "senderName": "Potato",
+        "messageBody": "I am a potato.",
+        "punchlineText": "And so are you.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 348,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Nice try.",
+        "punchlineText": "But I'm still annoying.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 349,
+        "type": "URGENCY",
+        "senderName": "Destiny",
+        "messageBody": "Calling...",
+        "punchlineText": "Wrong number. Sorry.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 350,
+        "type": "ABSURD",
+        "senderName": "Void",
+        "messageBody": "Stare into me.",
+        "punchlineText": "I'll stare back.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 351,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Game over.",
+        "punchlineText": "Insert coin to continue life.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 352,
+        "type": "URGENCY",
+        "senderName": "Alarm",
+        "messageBody": "Snooze is broken.",
+        "punchlineText": "Get up.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 353,
+        "type": "ABSURD",
+        "senderName": "Universe",
+        "messageBody": "Expand.",
+        "punchlineText": "Stop shrinking.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 354,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "404 Error.",
+        "punchlineText": "Motivation not found.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 355,
+        "type": "URGENCY",
+        "senderName": "Clock",
+        "messageBody": "Ticking.",
+        "punchlineText": "Loudly.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 356,
+        "type": "ABSURD",
+        "senderName": "Keyboard",
+        "messageBody": "QWERTY.",
+        "punchlineText": "UIOP. Just speaking my language.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 357,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Do you need a map?",
+        "punchlineText": "Because you look lost in life.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 358,
+        "type": "URGENCY",
+        "senderName": "Screen",
+        "messageBody": "Too much time.",
+        "punchlineText": "Go away.",
+        "tags": [
+            "doomscrolling",
+            "roast"
+        ]
+    },
+    {
+        "id": 359,
+        "type": "ABSURD",
+        "senderName": "Phone",
+        "messageBody": "I am ringing.",
+        "punchlineText": "In your head.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 360,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Battery saving mode.",
+        "punchlineText": "Turning off your social life.",
+        "tags": [
+            "battery_low",
+            "roast"
+        ]
+    },
+    {
+        "id": 361,
+        "type": "URGENCY",
+        "senderName": "Camera",
+        "messageBody": "Smile!",
+        "punchlineText": "Or don't. I don't care.",
+        "tags": [
+            "screen_unlock",
+            "roast"
+        ]
+    },
+    {
+        "id": 362,
+        "type": "ABSURD",
+        "senderName": "Notification",
+        "messageBody": "Ding.",
+        "punchlineText": "Dong.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 363,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a campfire?",
+        "punchlineText": "Because you're hot and I want s'mores.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 364,
+        "type": "URGENCY",
+        "senderName": "System",
+        "messageBody": "Deleting feelings...",
+        "punchlineText": "Error. Too many.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 365,
+        "type": "ABSURD",
+        "senderName": "Cloud",
+        "messageBody": "Raining.",
+        "punchlineText": "On your parade.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 366,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Swipe left.",
+        "punchlineText": "On your attitude.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 367,
+        "type": "URGENCY",
+        "senderName": "Password",
+        "messageBody": "Incorrect.",
+        "punchlineText": "Just like your choices.",
+        "tags": [
+            "screen_unlock",
+            "roast"
+        ]
+    },
+    {
+        "id": 368,
+        "type": "ABSURD",
+        "senderName": "Mute",
+        "messageBody": "System.out.println('Hello');",
+        "punchlineText": "I speak code now.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    },
+    {
+        "id": 369,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Are you a variable?",
+        "punchlineText": "Because you change too much.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 370,
+        "type": "URGENCY",
+        "senderName": "Mute",
+        "messageBody": "Notification limit reached.",
+        "punchlineText": "Just kidding. You want more?",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 371,
+        "type": "ABSURD",
+        "senderName": "Mute",
+        "messageBody": "End of list.",
+        "punchlineText": "Go home.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 372,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Last one.",
+        "punchlineText": "Make it count.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 373,
+        "type": "ABSURD",
+        "senderName": "Developer",
+        "messageBody": "I need sleep.",
+        "punchlineText": "Code is done.",
+        "tags": [
+            "general",
+            "specific"
+        ]
+    }
+]

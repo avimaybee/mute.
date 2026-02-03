@@ -49,6 +49,14 @@
         <receiver
             android:name=".receiver.NotificationDismissReceiver"
             android:exported="false" />
+
+        <receiver
+            android:name=".receiver.NotificationActionReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.example.notificationmenace.ACTION_TRAP" />
+            </intent-filter>
+        </receiver>
             
     </application>
 

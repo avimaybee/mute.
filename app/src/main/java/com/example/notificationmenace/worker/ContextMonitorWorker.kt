@@ -35,6 +35,11 @@ class ContextMonitorWorker(
 
         val prank = repository.getPrankForTrigger(selectedTrigger)
         
+        if (prank == null) {
+             // Exhausted
+             return Result.success()
+        }
+        
         // For GENERAL trigger, use probability to avoid spam
         if (selectedTrigger == ContextTrigger.GENERAL) {
             if (Math.random() < 0.1) { // 10% chance
@@ -83,9 +88,13 @@ class ContextMonitorWorker(
         val capabilities = connectivityManager.getNetworkCapabilities(network)
         
         if (capabilities == null) {
-            return ContextTrigger.WIFI_DISCONNECTED
+             if (cooldownManager.canPrank(ContextTrigger.WIFI_DISCONNECTED)) {
+                 return ContextTrigger.WIFI_DISCONNECTED
+             }
         } else if (!capabilities.hasTransport(NetworkCapabilities.TRANSPORT_WIFI)) {
-            return ContextTrigger.WIFI_DISCONNECTED
+             if (cooldownManager.canPrank(ContextTrigger.WIFI_DISCONNECTED)) {
+                 return ContextTrigger.WIFI_DISCONNECTED
+             }
         }
         
         return ContextTrigger.GENERAL

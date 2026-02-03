@@ -39,6 +39,12 @@ class PrankWorker(
         }
         
         val prank = repository.getPrankForTrigger(trigger)
+        
+        if (prank == null) {
+            LogManager.log("NO PRANKS AVAILABLE FOR: ${trigger.name}")
+            return Result.success()
+        }
+
         LogManager.log("EXECUTING PRANK: [${prank.id}] ${prank.senderName}")
         notificationHelper.showNotification(prank)
         

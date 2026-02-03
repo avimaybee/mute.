@@ -1,0 +1,552 @@
+[
+    {
+        "id": 123,
+        "type": "URGENCY",
+        "senderName": "System Security",
+        "messageBody": "Unauthorized face detected.",
+        "punchlineText": "Oh wait, it's just you. You look tired.",
+        "tags": [
+            "screen_unlock",
+            "edgy"
+        ]
+    },
+    {
+        "id": 124,
+        "type": "ABSURD",
+        "senderName": "FBI Agent #847",
+        "messageBody": "Do not open the gallery.",
+        "punchlineText": "We are still analyzing that screenshot.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 125,
+        "type": "ROAST",
+        "senderName": "Front Camera",
+        "messageBody": "I've seen things.",
+        "punchlineText": "Mostly your double chin from this angle.",
+        "tags": [
+            "screen_unlock",
+            "edgy"
+        ]
+    },
+    {
+        "id": 126,
+        "type": "URGENCY",
+        "senderName": "Virus Alert",
+        "messageBody": "Deleting 'Homework' folder...",
+        "punchlineText": "Just kidding. Maybe rename it though?",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 127,
+        "type": "ABSURD",
+        "senderName": "Incognito Mode",
+        "messageBody": "I remember everything.",
+        "punchlineText": "And I'm judging you silently.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 128,
+        "type": "URGENCY",
+        "senderName": "Network Traffic",
+        "messageBody": "Suspicious search history detected.",
+        "punchlineText": "Who googles that at 2 AM?",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 129,
+        "type": "ROAST",
+        "senderName": "System AI",
+        "messageBody": "Are you ok?",
+        "punchlineText": "You've been staring at the home screen for 5 minutes.",
+        "tags": [
+            "screen_unlock",
+            "edgy"
+        ]
+    },
+    {
+        "id": 130,
+        "type": "URGENCY",
+        "senderName": "Microphone",
+        "messageBody": "Recording started.",
+        "punchlineText": "Hope you're singing. I need a laugh.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 131,
+        "type": "ABSURD",
+        "senderName": "Dark Web",
+        "messageBody": "Your data is worth $0.12.",
+        "punchlineText": "Prices are dropping. Be more interesting.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 132,
+        "type": "URGENCY",
+        "senderName": "HackShield",
+        "messageBody": "Intruder Alert!",
+        "punchlineText": "It's just your reflection. False alarm.",
+        "tags": [
+            "screen_unlock",
+            "edgy"
+        ]
+    },
+    {
+        "id": 133,
+        "type": "ROAST",
+        "senderName": "Clipboard",
+        "messageBody": "I know what you copied.",
+        "punchlineText": "Do you really want to paste that?",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 134,
+        "type": "URGENCY",
+        "senderName": "Kernel Panic",
+        "messageBody": "System overheating.",
+        "punchlineText": "From your hot takes on Twitter. Chill.",
+        "tags": [
+            "doomscrolling",
+            "edgy"
+        ]
+    },
+    {
+        "id": 135,
+        "type": "ABSURD",
+        "senderName": "Government",
+        "messageBody": "Please look at the camera.",
+        "punchlineText": "Verification complete. Nice hair.",
+        "tags": [
+            "screen_unlock",
+            "edgy"
+        ]
+    },
+    {
+        "id": 136,
+        "type": "URGENCY",
+        "senderName": "Storage Manager",
+        "messageBody": "Too many screenshots.",
+        "punchlineText": "You're never going to read them.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 137,
+        "type": "ROAST",
+        "senderName": "Keyboard",
+        "messageBody": "WPM: 12.",
+        "punchlineText": "My grandma types faster.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 138,
+        "type": "ABSURD",
+        "senderName": "Pixel #404",
+        "messageBody": "I'm dead.",
+        "punchlineText": "Buried under your thumb specifically.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 139,
+        "type": "URGENCY",
+        "senderName": "Location Svc",
+        "messageBody": "Location shared with: Everyone.",
+        "punchlineText": "Jk, nobody is looking for you.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 140,
+        "type": "ABSURD",
+        "senderName": "FBI Agent",
+        "messageBody": "Cover your webcam.",
+        "punchlineText": "I'm eating lunch, I don't want to see you.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 141,
+        "type": "URGENCY",
+        "senderName": "System Update",
+        "messageBody": "Installing 'Personality 2.0'...",
+        "punchlineText": "Installation failed. Not enough space.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 142,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Self-destruct initiated.",
+        "punchlineText": "Just kidding. You'd be lost without me.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 143,
+        "type": "URGENCY",
+        "senderName": "Sim Card",
+        "messageBody": "No contacts found.",
+        "punchlineText": "Oh wait, you just have no friends.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 144,
+        "type": "ABSURD",
+        "senderName": "The Matrix",
+        "messageBody": "Wake up.",
+        "punchlineText": "Five more minutes? Fine.",
+        "tags": [
+            "screen_unlock",
+            "absurd"
+        ]
+    },
+    {
+        "id": 145,
+        "type": "ROAST",
+        "senderName": "Screen",
+        "messageBody": "Please clean me.",
+        "punchlineText": "I'm covered in grease and shame.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 146,
+        "type": "URGENCY",
+        "senderName": "ISP Alert",
+        "messageBody": "Internet usage limit reached.",
+        "punchlineText": "Stop watching cat videos.",
+        "tags": [
+            "wifi_connected",
+            "roast"
+        ]
+    },
+    {
+        "id": 147,
+        "type": "ABSURD",
+        "senderName": "Phone Case",
+        "messageBody": "It's tight in here.",
+        "punchlineText": "Let me breathe.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 148,
+        "type": "ROAST",
+        "senderName": "Crush?",
+        "messageBody": "New Message from [Redacted]",
+        "punchlineText": "Haha, you thought. You wish.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 149,
+        "type": "BARNUM",
+        "senderName": "Cupid's Algorithm",
+        "messageBody": "Match found near you.",
+        "punchlineText": "It's the pizza delivery guy. Go get him.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 150,
+        "type": "ROAST",
+        "senderName": "Ex-Sim",
+        "messageBody": "Miss me?",
+        "punchlineText": "Because I definitely don't miss you.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 151,
+        "type": "ABSURD",
+        "senderName": "Future Spouse",
+        "messageBody": "Stop being weird.",
+        "punchlineText": "You're ruining our future.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 152,
+        "type": "ROAST",
+        "senderName": "Dating App",
+        "messageBody": "0 new likes.",
+        "punchlineText": "Maybe try a better bio?",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 153,
+        "type": "BARNUM",
+        "senderName": "Love Horoscope",
+        "messageBody": "You will meet someone special.",
+        "punchlineText": "In your dreams. Literally.",
+        "tags": [
+            "night_owl",
+            "flirty"
+        ]
+    },
+    {
+        "id": 154,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Stalking their profile again?",
+        "punchlineText": "They posted 3 years ago. Move on.",
+        "tags": [
+            "doomscrolling",
+            "flirty"
+        ]
+    },
+    {
+        "id": 155,
+        "type": "ABSURD",
+        "senderName": "Secret Admirer",
+        "messageBody": "I'm watching you.",
+        "punchlineText": "From the bushes. (This is a joke. pls don't call 911)",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 156,
+        "type": "ROAST",
+        "senderName": "Relationship Status",
+        "messageBody": "Status update: Single.",
+        "punchlineText": "Still. Just checking if you knew.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 157,
+        "type": "URGENCY",
+        "senderName": "Heart Monitor",
+        "messageBody": "Heart rate increasing.",
+        "punchlineText": "Did you see a cute dog or your crush?",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 158,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Sending 'I miss you' text...",
+        "punchlineText": "Intercepted. You're welcome.",
+        "tags": [
+            "night_owl",
+            "flirty"
+        ]
+    },
+    {
+        "id": 159,
+        "type": "ABSURD",
+        "senderName": "Soulmate",
+        "messageBody": "I'm lost.",
+        "punchlineText": "Send location. Or a map.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 160,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Lower your standards.",
+        "punchlineText": "Just a friendly suggestion.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 161,
+        "type": "BARNUM",
+        "senderName": "Compatibility",
+        "messageBody": "99% Match Found.",
+        "punchlineText": "With your bed. Go to sleep.",
+        "tags": [
+            "night_owl",
+            "roast"
+        ]
+    },
+    {
+        "id": 162,
+        "type": "ROAST",
+        "senderName": "Text Analyst",
+        "messageBody": "Analysis: They're not into you.",
+        "punchlineText": "One word replies? Ouch.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 163,
+        "type": "ABSURD",
+        "senderName": "Wedding Planner",
+        "messageBody": "Date reserved: Never.",
+        "punchlineText": "Saving you money since 2024.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 164,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "You looked cute today.",
+        "punchlineText": "Said nobody. Jk, you're a 10.",
+        "tags": [
+            "screen_unlock",
+            "flirty"
+        ]
+    },
+    {
+        "id": 165,
+        "type": "URGENCY",
+        "senderName": "Love Alert",
+        "messageBody": "Feelings detected.",
+        "punchlineText": "Quarantine initiated. Stay safe.",
+        "tags": [
+            "general",
+            "flirty"
+        ]
+    },
+    {
+        "id": 166,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Thinking about them?",
+        "punchlineText": "They're thinking about tacos.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 167,
+        "type": "ABSURD",
+        "senderName": "Biological Clock",
+        "messageBody": "Tick tock.",
+        "punchlineText": "Actually, take your time. Kids are expensive.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 168,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Your charisma level: -5.",
+        "punchlineText": "Roll for initiative.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 169,
+        "type": "ABSURD",
+        "senderName": "Parallel Universe",
+        "messageBody": "You're married here.",
+        "punchlineText": "To a lizard person. You look happy.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 170,
+        "type": "ROAST",
+        "senderName": "Mute",
+        "messageBody": "Checking DMs...",
+        "punchlineText": "It's dry. Like a desert.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 171,
+        "type": "URGENCY",
+        "senderName": "Rizz Monitor",
+        "messageBody": "Critical levels of Cringe detected.",
+        "punchlineText": "Delete that draft. Now.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 172,
+        "type": "ABSURD",
+        "senderName": "Fortune 500",
+        "messageBody": "You will be rich.",
+        "punchlineText": "Rich in loneliness.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    }
+]

@@ -1,0 +1,552 @@
+[
+    {
+        "id": 173,
+        "type": "URGENCY",
+        "senderName": "Battery King",
+        "messageBody": "I am fading...",
+        "punchlineText": "Hold my hand... (Plugin me pls or I die).",
+        "tags": [
+            "battery_low",
+            "corny"
+        ]
+    },
+    {
+        "id": 174,
+        "type": "ABSURD",
+        "senderName": "Flashlight",
+        "messageBody": "Do not turn me on.",
+        "punchlineText": "I am tired. I need a nap.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 175,
+        "type": "ROAST",
+        "senderName": "Calculator",
+        "messageBody": "5318008",
+        "punchlineText": "Grow up. Seriously.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 176,
+        "type": "URGENCY",
+        "senderName": "Alarm Clock",
+        "messageBody": "I'm dreading tomorrow morning.",
+        "punchlineText": "You are going to hit snooze 5 times. I know it.",
+        "tags": [
+            "night_owl",
+            "corny"
+        ]
+    },
+    {
+        "id": 177,
+        "type": "ABSURD",
+        "senderName": "Compass",
+        "messageBody": "North is that way ->",
+        "punchlineText": "Wait, no, I'm dizzy.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 178,
+        "type": "ROAST",
+        "senderName": "Weather App",
+        "messageBody": "Forecast: Single.",
+        "punchlineText": "With a 100% chance of crying.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 179,
+        "type": "URGENCY",
+        "senderName": "Battery Life",
+        "messageBody": "10% remaining.",
+        "punchlineText": "That's 5 minutes of TikTok or 3 hours of productivity. Choose.",
+        "tags": [
+            "battery_low",
+            "corny"
+        ]
+    },
+    {
+        "id": 180,
+        "type": "ABSURD",
+        "senderName": "Notes App",
+        "messageBody": "I'm full of bad ideas.",
+        "punchlineText": "Please delete the 'Startup Idea' note. It's embarrassing.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 181,
+        "type": "ROAST",
+        "senderName": "Volume",
+        "messageBody": "Too loud.",
+        "punchlineText": "Everyone can hear your bad taste in music.",
+        "tags": [
+            "headphones_plugged",
+            "roast"
+        ]
+    },
+    {
+        "id": 182,
+        "type": "URGENCY",
+        "senderName": "Brightness",
+        "messageBody": "My eyes!",
+        "punchlineText": "Turn me down. It's 3 AM.",
+        "tags": [
+            "night_owl",
+            "corny"
+        ]
+    },
+    {
+        "id": 183,
+        "type": "ABSURD",
+        "senderName": "Airplane Mode",
+        "messageBody": "We are cleared for takeoff.",
+        "punchlineText": "Destination: Couch.",
+        "tags": [
+            "airplane_mode_on",
+            "corny"
+        ]
+    },
+    {
+        "id": 184,
+        "type": "ROAST",
+        "senderName": "Step Counter",
+        "messageBody": "Total steps: 42.",
+        "punchlineText": "To the fridge and back doesn't count as a workout.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 185,
+        "type": "URGENCY",
+        "senderName": "Screen Rotation",
+        "messageBody": "Stop spinning me.",
+        "punchlineText": "I'm gonna be sick.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 186,
+        "type": "ABSURD",
+        "senderName": "Voice Assistant",
+        "messageBody": "I didn't catch that.",
+        "punchlineText": "Mostly because I wasn't listening.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 187,
+        "type": "ROAST",
+        "senderName": "Calendar",
+        "messageBody": "Free all day?",
+        "punchlineText": "As usual. Get a hobby.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 188,
+        "type": "URGENCY",
+        "senderName": "Update Manager",
+        "messageBody": "Update available.",
+        "punchlineText": "For your wardrobe. Burn those crocs.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 189,
+        "type": "ABSURD",
+        "senderName": "Bluetooth",
+        "messageBody": "Searching for devices...",
+        "punchlineText": "Found: 'Neighbor’s TV'. Connect? JK.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 190,
+        "type": "ROAST",
+        "senderName": "App Store",
+        "messageBody": "Recommended for you: 'Get a Life'.",
+        "punchlineText": "It's a top grossing app.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 191,
+        "type": "URGENCY",
+        "senderName": "Do Not Disturb",
+        "messageBody": "Disturbing you anyway.",
+        "punchlineText": "Because I'm important.",
+        "tags": [
+            "general",
+            "corny"
+        ]
+    },
+    {
+        "id": 192,
+        "type": "ABSURD",
+        "senderName": "Wallet",
+        "messageBody": "Empty.",
+        "punchlineText": "Just thought I'd remind you.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 193,
+        "type": "ROAST",
+        "senderName": "Contacts",
+        "messageBody": "Cleaning up contacts...",
+        "punchlineText": "You haven't spoken to 'Mom' in weeks. Call her.",
+        "tags": [
+            "general",
+            "edgy"
+        ]
+    },
+    {
+        "id": 194,
+        "type": "URGENCY",
+        "senderName": "Timer",
+        "messageBody": "Time is running out.",
+        "punchlineText": "For what? I don't know. Panic.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 195,
+        "type": "ABSURD",
+        "senderName": "Microphone",
+        "messageBody": "*Cough*",
+        "punchlineText": "Excuse me. It's dusty in here.",
+        "tags": [
+            "general",
+            "absurd"
+        ]
+    },
+    {
+        "id": 196,
+        "type": "ROAST",
+        "senderName": "Photos",
+        "messageBody": "New Memory created.",
+        "punchlineText": "Title: 'Another mediocre selfie'.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 197,
+        "type": "URGENCY",
+        "senderName": "System",
+        "messageBody": "Critical Error.",
+        "punchlineText": "User is too boring. System shutting down.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 198,
+        "type": "ROAST",
+        "senderName": "Steam?",
+        "messageBody": "Wishlist item on sale.",
+        "punchlineText": "You still can't afford it.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 199,
+        "type": "URGENCY",
+        "senderName": "Game Server",
+        "messageBody": "Ban imminent.",
+        "punchlineText": "Reason: Being bad at the game.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 200,
+        "type": "ABSURD",
+        "senderName": "Discord",
+        "messageBody": "@everyone",
+        "punchlineText": "Just wanted to annoy you.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 201,
+        "type": "ROAST",
+        "senderName": "Ranked Match",
+        "messageBody": "You have been demoted.",
+        "punchlineText": "To cardboard rank. Congrats.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 202,
+        "type": "URGENCY",
+        "senderName": "Graphics Card",
+        "messageBody": "Frames dropping.",
+        "punchlineText": "Like your grades.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 203,
+        "type": "ABSURD",
+        "senderName": "NPC",
+        "messageBody": "I have a quest for you.",
+        "punchlineText": "Go outside. Reward: Fresh air.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 204,
+        "type": "ROAST",
+        "senderName": "Console",
+        "messageBody": "Controller disconnected.",
+        "punchlineText": "Just like you from reality.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 205,
+        "type": "URGENCY",
+        "senderName": "Loot Box",
+        "messageBody": "Legendary Item Found!",
+        "punchlineText": "It's a duplicate. RIP.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 206,
+        "type": "ABSURD",
+        "senderName": "Speedrunner",
+        "messageBody": "New Personal Best!",
+        "punchlineText": "Time spent procrastinating: 4 hours.",
+        "tags": [
+            "doomscrolling",
+            "roast"
+        ]
+    },
+    {
+        "id": 207,
+        "type": "ROAST",
+        "senderName": "Team Chat",
+        "messageBody": "uninstall pls",
+        "punchlineText": "Reported for feeding.",
+        "tags": [
+            "general",
+            "roast"
+        ]
+    },
+    {
+        "id": 208,
+        "type": "URGENCY",
+        "senderName": "Sleep Paralysis Demon",
+        "messageBody": "I'm in the corner.",
+        "punchlineText": "You moved. I saw it.",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 209,
+        "type": "ABSURD",
+        "senderName": "3 AM Thoughts",
+        "messageBody": "Does a straw have one hole or two?",
+        "punchlineText": "You won't sleep until you decide.",
+        "tags": [
+            "night_owl",
+            "absurd"
+        ]
+    },
+    {
+        "id": 210,
+        "type": "ROAST",
+        "senderName": "The Sun",
+        "messageBody": "I'm coming up soon.",
+        "punchlineText": "And you haven't slept. Shame.",
+        "tags": [
+            "night_owl",
+            "roast"
+        ]
+    },
+    {
+        "id": 211,
+        "type": "URGENCY",
+        "senderName": "Monster Under Bed",
+        "messageBody": "Can you pass me a charger?",
+        "punchlineText": "Thanks bro.",
+        "tags": [
+            "night_owl",
+            "absurd"
+        ]
+    },
+    {
+        "id": 212,
+        "type": "ABSURD",
+        "senderName": "Shadow",
+        "messageBody": "Why are you awake?",
+        "punchlineText": "We usually sleep now.",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 213,
+        "type": "ROAST",
+        "senderName": "Alarm (Pre-set)",
+        "messageBody": "I'm going to ring in 3 hours.",
+        "punchlineText": "Good luck functioning tomorrow.",
+        "tags": [
+            "night_owl",
+            "roast"
+        ]
+    },
+    {
+        "id": 214,
+        "type": "URGENCY",
+        "senderName": "Night Mode",
+        "messageBody": "Blue light filter failed.",
+        "punchlineText": "Enjoy the insomnia.",
+        "tags": [
+            "night_owl",
+            "roast"
+        ]
+    },
+    {
+        "id": 215,
+        "type": "ABSURD",
+        "senderName": "Owl",
+        "messageBody": "Hoo.",
+        "punchlineText": "Hoo cares? Go to bed.",
+        "tags": [
+            "night_owl",
+            "corny"
+        ]
+    },
+    {
+        "id": 216,
+        "type": "ROAST",
+        "senderName": "Fridge",
+        "messageBody": "I know you're coming.",
+        "punchlineText": "I have nothing but condiments. Go back.",
+        "tags": [
+            "night_owl",
+            "roast"
+        ]
+    },
+    {
+        "id": 217,
+        "type": "URGENCY",
+        "senderName": "Closet Door",
+        "messageBody": "Did you close me?",
+        "punchlineText": "I'm slightly open now. Just saying.",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 218,
+        "type": "ABSURD",
+        "senderName": "Dream",
+        "messageBody": "Loading...",
+        "punchlineText": "Connection timed out. User is awake.",
+        "tags": [
+            "night_owl",
+            "absurd"
+        ]
+    },
+    {
+        "id": 219,
+        "type": "ROAST",
+        "senderName": "Early Bird",
+        "messageBody": "I get the worm.",
+        "punchlineText": "You get eye bags.",
+        "tags": [
+            "night_owl",
+            "roast"
+        ]
+    },
+    {
+        "id": 220,
+        "type": "URGENCY",
+        "senderName": "Silence",
+        "messageBody": "It's too quiet.",
+        "punchlineText": "*floorboard creak*",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    },
+    {
+        "id": 221,
+        "type": "ABSURD",
+        "senderName": "Sheep",
+        "messageBody": "Count me!",
+        "punchlineText": "1... 2... You lost count.",
+        "tags": [
+            "night_owl",
+            "corny"
+        ]
+    },
+    {
+        "id": 222,
+        "type": "ROAST",
+        "senderName": "Mirror",
+        "messageBody": "Don't look at me at 3 AM.",
+        "punchlineText": "You experienced sleep deprivation mania.",
+        "tags": [
+            "night_owl",
+            "edgy"
+        ]
+    }
+]

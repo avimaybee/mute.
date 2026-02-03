@@ -82,12 +82,29 @@ class NotificationManagerHelper(private val context: Context) {
 
         val isOngoing = prank.tags.contains(ContextTrigger.ONGOING)
 
+        // Build title: Only include sender for persona-based pranks that need context
+        // Generic senders (Mute, Your Phone, System, Alert, etc.) don't add value
+        val genericSenders = listOf(
+            "mute", "mute app", "your phone", "phone", "system", "alert", 
+            "notification", "warning", "error", "update", "reminder",
+            "screen time", "storage", "productivity", "brainrot", "fortune",
+            "horoscope", "oracle", "prediction", "vibe check", "aura check",
+            "security", "network"
+        )
+        
+        val notificationTitle = if (genericSenders.any { prank.senderName.equals(it, ignoreCase = true) }) {
+            prank.messageBody
+        } else {
+            // Persona-based sender (FBI, Bank, Mom, Crush, etc.) - include for context
+            "${prank.senderName}: ${prank.messageBody}"
+        }
+
         val builder = NotificationCompat.Builder(context, CHANNEL_ID)
-            .setSmallIcon(R.drawable.ic_launcher_foreground) // Placeholder logo
-            .setContentTitle(prank.messageBody) // Headline/Setup
-            .setContentText(prank.punchlineText) // Punchline
+            .setSmallIcon(R.drawable.ic_logo_monochrome)
+            .setContentTitle(notificationTitle)
+            .setContentText(prank.punchlineText)
             .setStyle(NotificationCompat.BigTextStyle()
-                .bigText(prank.punchlineText)) // Expandable Punchline
+                .bigText(prank.punchlineText)) // Only punchline in expanded view
             .setPriority(if (prank.type == PrankType.URGENCY) NotificationCompat.PRIORITY_HIGH else NotificationCompat.PRIORITY_DEFAULT)
             .setContentIntent(pendingIntent)
             .setDeleteIntent(deletePendingIntent)
@@ -101,3 +118,4 @@ class NotificationManagerHelper(private val context: Context) {
         com.example.notificationmenace.util.LogManager.log("NOTIFICATION DISPATCHED: [${prank.senderName}] ${prank.messageBody}")
     }
 }
+
